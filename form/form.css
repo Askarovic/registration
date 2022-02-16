@@ -1,0 +1,243 @@
+body{
+    background-color: black;
+}
+
+
+/*------------------------------------------------------------------------------------------------------------------------*/
+
+
+.main_wrapper{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.wrapper{
+    margin: 248px  388px 200px 388px;
+    background-color: white;
+    width: 800px;
+    height: 670px;
+    border-radius: 8px;
+    background: #FFFFFF;
+
+}
+/*----------------------------------------------------------------------------------------------------------------------*/
+.head{
+    font-size: 16px;
+    line-height: 20px;
+    margin: 40px 166px 24px 20px;
+}
+
+.head_wrapper{
+    font-size: 14px;
+    line-height: 18px;
+    margin: 24px  308px  16px   24px ;
+
+}
+
+/*-----------FORM-----------------------------------------------------------------------------------------------*/
+
+.info_surname{
+    width: 180px;
+    height: 48px;
+    margin-right: 8px;
+    opacity:  0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin: 16px 8px 16px  24px;
+    padding: 0 16px;
+}
+
+.info_name{
+    width: 180px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin: 16px 8 px 16px 8px;
+    padding: 0 16px;
+}
+
+.info_patronymic{
+    width: 200px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin: 16px 24px 16px 8px;
+    padding: 0 16px;
+}
+/*---------------PASPORT----------------------------------------------------------------------------------------------------------*/
+
+.passport{
+    width: 256px;
+    height: 16px;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 16px  384px 8px 24px;
+}
+
+.birth{
+    width: 200px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin: 8px  8px   16px 24px;
+    padding: 0 0 0px 16px;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 0 0 0 16px;
+}
+
+.place_birth{
+    width: 380px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin: 8px  24px  16px 8px;
+    padding: 0 0 0 15.69px;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 0 0 0 16px;
+}
+
+.ser_number{
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    width: 176px;
+    height: 48px;
+    margin: 16px  8px 16px  24px;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 0 0 0 16px;
+}
+
+.inn{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    margin: 16px 0px;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 0 0 0 16px;
+}
+
+.date_give{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    margin: 16px 24px  16px 8px;
+    padding: 0 0 0 16px;
+}
+
+.contact{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    margin: 16px 8px  16px  24px;
+    padding: 0 0 0 16px;
+}
+
+.email{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    padding: 0 0 0 16px;
+}
+
+.bank{
+    background-color: white;
+    width: 200px;
+    height: 48px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    padding: 0 0 0 16px;
+}
+.place_live{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    padding: 0 0 0 16px;
+}
+
+.place_live{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    margin: 16px 232px  0px 24px;
+    padding: 0 0 0 16px;
+}
+
+.continue{
+    font-size: 20px;
+    line-height: 25px;
+    width: 384px;
+    height: 48px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 0 0 0 16px;
+    border: none;
+    border-radius: 4px;
+}
+
+.continue_button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 140px  40px 140px;
+    border-radius: 4px;
+}
+
+.continue a{
+    text-decoration: none;
+    color: white;
+}
